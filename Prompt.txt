@@ -1,0 +1,21 @@
+Create ipynb that perform the following steps:
+Step 1: Load the AmesHousing.csv using pandas 
+Step 2: Perform EDA:
+    - Check for missing values
+    - Perform imputation if there is missing values
+    - Split into categorical and continuous variables and do the EDA
+    - Based on EDA, apply feature selections or regularization using LASSO, and make it as input ready for next Step
+    - Save all the plots in png folder
+Step 3: Supervised Machine Learning
+    - Split into 80-20 for training testing
+    - Apply K-fold cross validation (5-fold) 
+    - Using Random Forest and Gradient Boosting Trees
+    - Use SalePrice as target and feature selection as input from previous Step 2
+    - Shortlist important features after modeling
+Step 4: Create report documents in Latex format having 4 chapters:
+    - Chapter 1: Introduction
+    - Chapter 2: EDA and put all plots from png folder into this chapters
+    - Chapter 3: Modeling part: write detailed description about the modeling using Random Forest and GBT
+    - Chapter 4: Discussions and Conclusions
+    - Save all Latex files in report folder
+
