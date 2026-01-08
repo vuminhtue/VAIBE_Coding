@@ -1,5 +1,7 @@
 # VAIBE_Coding
 ## Station 2: V(AI)BE Coding for Data Science
+#### Instructor: Dr. Tue Vu
+
 ### Goal:
 - Use Vibe Coding to do an end-2-end Data Science workflow using AI
 - Tools: Cursor. Download free version here: www.cursor.com/download 
