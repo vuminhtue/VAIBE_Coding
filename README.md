@@ -6,12 +6,12 @@
 - Use Vibe Coding to do an end-2-end Data Science workflow using AI
 - Tools: Cursor. Download free version here: www.cursor.com/download 
 ________________________________________
-### 1. Download and setup  (3min): 
+### 1. Download and setup  (3 min): 
 - Download and setup miniconda for your system (Window/MacOS): https://www.anaconda.com/download/success#download
 - Download and install cursor for your system (Window/MacOS): www.cursor.com/download
 
 ________________________________________
-### 2. Introduce Cursor IDE GUI
+### 2. Introduce Cursor IDE GUI (2 min)
 - Create free Cursor account
 - In model, choose GPT-4.1
 - Open Folder, default to Documents
@@ -40,7 +40,7 @@ ________________________________________
 - Open Prompt.txt and Paste prompt to the chat bot.
 
 ________________________________________
-### 5. Create AI report (4 min)
+### 5. Create AI report (2 min)
 ________________________________________
 - The prompt also has option to create AI report in Latex format.
 - The report in separate chapters are saved in report folder  
