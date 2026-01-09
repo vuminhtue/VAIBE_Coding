@@ -50,3 +50,7 @@ ________________________________________
 $ pdflatex report/main.tex
 ```
 
+### 6. Cursor Pro?
+- Cursor provide 1 year Pro plan for edu account: https://cursor.com/students
+
+
