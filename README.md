@@ -15,16 +15,16 @@ ________________________________________
 - Create free Cursor account
 - In model, choose GPT-4.1
 - Open Folder, default to Documents
+- Open terminal
 - Clone the material from github:
 
 ```
 $ git clone https://github.com/vuminhtue/VAIBE_Coding.git
-$ cd $ cd VAIBE_Coding
+$ cd VAIBE_Coding
 ```
 
 ________________________________________
 ### 3. Install conda environment (3 min)
-- Open terminal in Cursor and create your own conda environment, may need to initialize:
 
 ```
 $ conda create -n ds1 python=3.10 -y
