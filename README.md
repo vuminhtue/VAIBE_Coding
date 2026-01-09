@@ -43,5 +43,10 @@ ________________________________________
 ### 5. Create AI report (2 min)
 ________________________________________
 - The prompt also has option to create AI report in Latex format.
-- The report in separate chapters are saved in report folder  
+- The report in separate chapters are saved in report folder
+- Once the main.tex created, we can convert that to pdf:
+
+```
+$ pdflatex report/main.tex
+```
 
