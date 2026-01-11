@@ -12,11 +12,18 @@ ________________________________________
 
 ________________________________________
 ### 2. Introduce Cursor IDE GUI (2 min)
-- Create free Cursor account
-- In model, choose GPT-4.1
-- Open Folder, default to Documents
+- Create free Cursor account:
+
+<img width="2426" height="1602" alt="image" src="https://github.com/user-attachments/assets/6be44fcd-5fa1-4175-9ebd-3ad3b4bf5954" />
+
+- In model, choose GPT-4.1:
+<img width="938" height="1226" alt="image" src="https://github.com/user-attachments/assets/52a2e294-e88b-452c-a55e-15d5d68b620a" />
+
+- File/Open Folder, default to Documents
 - Open terminal
-- Clone the material from github:
+<img width="874" height="484" alt="image" src="https://github.com/user-attachments/assets/19cd3027-b9cd-4728-8a15-92d989d9796b" />
+
+- In the terminal, Clone the material from github:
 
 ```
 $ git clone https://github.com/vuminhtue/VAIBE_Coding.git
