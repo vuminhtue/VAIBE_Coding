@@ -58,6 +58,7 @@ $ pdflatex report/main.tex
 ```
 
 ### 6. Cursor Pro?
-- Cursor provide 1 year Pro plan for edu account: https://cursor.com/students
+- The free plan has very limited usage of each model daily. If you are planning to use the pro version: the Cursor provide 1 year Pro plan for edu account: https://cursor.com/students
+- Pro plan gives you free access to latest models like Claude Opus 4.5, Claude Sonnet 4.5 and GPT-5.2
 
 
