@@ -51,11 +51,15 @@ ________________________________________
 ________________________________________
 - The prompt also has option to create AI report in Latex format.
 - The report in separate chapters are saved in report folder
-- Once the main.tex created, we can convert that to pdf:
+- Once the main.tex created, we can convert that to pdf using pdflatex:
 
 ```
 $ pdflatex report/main.tex
 ```
+
+**Note:** if you do not have pdflatex installed, you can do that for your system:
+- Window: Download the installer from miktex.org/download
+- MacOS: Download the MacTeX.pkg installer from tug.org/mactex
 
 ### 6. Cursor Pro?
 - The free plan has very limited usage of each model daily. If you are planning to use the pro version: the Cursor provide 1 year Pro plan for edu account: https://cursor.com/students
