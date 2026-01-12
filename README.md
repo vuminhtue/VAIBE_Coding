@@ -63,5 +63,5 @@ $ pdflatex report/main.tex
 
 ### Recording:
 
-https://youtu.be/PNXflchaYis 
+https://www.youtube.com/watch?v=bVye4ZYCblM
 
