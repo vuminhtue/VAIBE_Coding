@@ -20,7 +20,7 @@ ________________________________________
 
 <img width="2426" height="1602" alt="image" src="https://github.com/user-attachments/assets/6be44fcd-5fa1-4175-9ebd-3ad3b4bf5954" />
 
-- In model, choose GPT-4.1:
+- In model, choose **Auto**:
 <img width="938" height="1226" alt="image" src="https://github.com/user-attachments/assets/52a2e294-e88b-452c-a55e-15d5d68b620a" />
 
 - File/Open Folder, default to Documents
