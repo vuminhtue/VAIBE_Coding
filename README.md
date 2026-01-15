@@ -16,7 +16,7 @@ ________________________________________
 
 ________________________________________
 ### 2. Introduce Cursor IDE GUI (2 min)
-- Create free Cursor account:
+- Create **free** Cursor account:
 
 <img width="2426" height="1602" alt="image" src="https://github.com/user-attachments/assets/6be44fcd-5fa1-4175-9ebd-3ad3b4bf5954" />
 
@@ -24,7 +24,7 @@ ________________________________________
 <img width="938" height="1226" alt="image" src="https://github.com/user-attachments/assets/52a2e294-e88b-452c-a55e-15d5d68b620a" />
 
 - File/Open Folder, default to Documents
-- Open terminal
+- Open **Terminal**
 <img width="874" height="484" alt="image" src="https://github.com/user-attachments/assets/19cd3027-b9cd-4728-8a15-92d989d9796b" />
 
 - In the terminal, Clone the material from github:
@@ -47,7 +47,7 @@ ________________________________________
 
 ### 4. Run the Prompt (5 min)
 - In Cursor, open Folder VAIBE_Coding that you just clone and start VAIBE Coding using given csv file
-- Use the AmesHousing.csv as the tabular data used for this Data Science workflow
+- Use the ***AmesHousing.csv*** as the tabular data used for this Data Science workflow
 - Open Prompt.txt and Paste prompt to the chat bot.
 
 ________________________________________
@@ -55,7 +55,7 @@ ________________________________________
 ________________________________________
 - The prompt also has option to create AI report in Latex format.
 - The report in separate chapters are saved in report folder
-- Once the main.tex created, we can convert that to pdf using pdflatex:
+- Once the main.tex created, we can convert that to pdf using **pdflatex**:
 
 ```
 $ pdflatex report/main.tex
@@ -66,7 +66,7 @@ $ pdflatex report/main.tex
 - MacOS: Download the MacTeX.pkg installer from tug.org/mactex
 
 ### 6. Cursor Pro?
-- The free plan has very limited usage of each model daily. If you are planning to use the pro version: the Cursor provide 1 year Pro plan for edu account: https://cursor.com/students
+- The free plan has very limited usage of each model daily. If you are planning to use the pro version: the Cursor provide 1 year **Pro** plan for edu account: https://cursor.com/students
 - Pro plan gives you free access to latest models like Claude Opus 4.5, Claude Sonnet 4.5 and GPT-5.2
 
 ### Recording:
