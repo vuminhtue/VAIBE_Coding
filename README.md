@@ -11,8 +11,8 @@
 - Tools: Cursor. Download free version here: www.cursor.com/download 
 ________________________________________
 ### 1. Download and setup  (3 min): 
-- Download and setup miniconda for your system (Window/MacOS): https://www.anaconda.com/download/success#download
-- Download and install cursor for your system (Window/MacOS): www.cursor.com/download
+- Download and setup **Miniconda** for your system (Window/MacOS): https://www.anaconda.com/download/success#download
+- Download and install **Cursor** for your system (Window/MacOS): www.cursor.com/download
 
 ________________________________________
 ### 2. Introduce Cursor IDE GUI (2 min)
