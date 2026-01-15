@@ -1,6 +1,6 @@
 # VAIBE_Coding
 ## Station 2: V(AI)BE Coding for Data Science
-#### Instructor: Dr. Tue Vu
+#### Instructor: Dr. Tue Vu (tuev@smu.edu)
 
 ### Vibe Coding
 - AI-assisted software development technique that helps user to code from prompt
