@@ -1,5 +1,5 @@
 # VAIBE_Coding
-## Station 2: V(AI)BE Coding for Data Science
+## V(AI)BE Coding for Data Science
 #### Instructor: Dr. Tue Vu (tuev@smu.edu)
 
 ### Vibe Coding
@@ -8,14 +8,17 @@
   
 ### Goal:
 - Use Vibe Coding to do an end-2-end Data Science workflow using AI
-- Tools: Cursor. Download free version here: www.cursor.com/download 
+- Tools: VSCode. Download free version here: [https://code.visualstudio.com]
 ________________________________________
 ### 1. Download and setup  (3 min): 
-- Download and setup **Miniconda** for your system (Window/MacOS): https://www.anaconda.com/download/success#download
-- Download and install **Cursor** for your system (Window/MacOS): www.cursor.com/download
+- Download and setup **Miniconda** for your system (Window/MacOS/Linux): https://www.anaconda.com/download/success#download
+- Download and install **VSCode** for your system (Window/MacOS/Linux): [https://code.visualstudio.com]
+- Create Github account and register with FREE Github copilot pro [https://docs.github.com/en/copilot/how-tos/manage-your-account/get-free-access-to-copilot-pro]
+  - With Github copilot pro, you can have access to best/latest LLMs for vibe coding
+  - This takes 72 hours to activate, in the mean time you can use free Github version for VSCode login
 
 ________________________________________
-### 2. Introduce Cursor IDE GUI (2 min)
+### 2. Introduce VSCode Integrated Development Environment (IDE) GUI (2 min)
 - Create **free** Cursor account:
 
 <img width="2426" height="1602" alt="image" src="https://github.com/user-attachments/assets/6be44fcd-5fa1-4175-9ebd-3ad3b4bf5954" />
