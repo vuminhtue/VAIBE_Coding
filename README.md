@@ -32,7 +32,7 @@ $ cd VAIBE_Coding
 
 ________________________________________
 ### 3. Install conda environment (3 min)
-
+- In terminal:
 ```
 $ conda create -n ds1 python=3.10 -y
 $ conda activate ds1
@@ -42,9 +42,13 @@ $ pip install -r requirements.txt
 ________________________________________
 
 ### 4. Run the Prompt (5 min)
-- In Cursor, open Folder VAIBE_Coding that you just clone and start VAIBE Coding using given csv file
+- In VSCode, open Folder VAIBE_Coding that you just clone and start VAIBE Coding using given csv file
 - Use the ***AmesHousing.csv*** as the tabular data used for this Data Science workflow
-- Open Prompt.txt and Paste prompt to the chat bot.
+- Click on Prompt.txt and start chatting, for example, if you want to have a better prompt before apply Vibe coding:
+
+```
+From the prompt, create a comprehensive prompt for me
+```
 
 ________________________________________
 ### 5. Create AI report (2 min)
@@ -61,11 +65,8 @@ $ pdflatex report/main.tex
 - Window: Download the installer from miktex.org/download
 - MacOS: Download the MacTeX.pkg installer from tug.org/mactex
 
-### 6. Cursor Pro?
-- The free plan has very limited usage of each model daily. If you are planning to use the pro version: the Cursor provide 1 year **Pro** plan for edu account: https://cursor.com/students
-- Pro plan gives you free access to latest models like Claude Opus 4.5, Claude Sonnet 4.5 and GPT-5.2
-
 ### Recording:
+- The recording below is for Cursor, it is the same as using VSCode:
 
 https://www.youtube.com/watch?v=bVye4ZYCblM
 
