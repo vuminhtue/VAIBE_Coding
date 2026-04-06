@@ -21,7 +21,7 @@ ________________________________________
 ### 2. Introduce VSCode Integrated Development Environment (IDE) GUI (2 min)
 - File/Open Folder, default to Documents
 - Open **Terminal**
-<img width="874" height="484" alt="image" src="https://github.com/user-attachments/assets/19cd3027-b9cd-4728-8a15-92d989d9796b" />
+<img width="245" height="70" alt="image" src="https://github.com/user-attachments/assets/8970ba62-a9ec-4bdc-ad46-cd067fe8ed50" />
 
 - In the terminal, Clone the material from github:
 
