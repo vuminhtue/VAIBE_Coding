@@ -16,6 +16,11 @@ ________________________________________
 - Create Github account and register with FREE Github copilot pro [https://docs.github.com/en/copilot/how-tos/manage-your-account/get-free-access-to-copilot-pro]
   - With Github copilot pro, you can have access to best/latest LLMs for vibe coding
   - This takes 72 hours to activate, in the mean time you can use free Github version for VSCode login
+- Initialize Miniconda: from Window VSCode Powershell: (assume Miniconda installed to C:\ProgramData\miniconda3)
+
+```
+$ C:\ProgramData\miniconda3\Scripts\conda.exe init powershell
+```  
 
 ________________________________________
 ### 2. Introduce VSCode Integrated Development Environment (IDE) GUI (2 min)
